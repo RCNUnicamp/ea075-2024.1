@@ -7,7 +7,7 @@ O presente projeto foi originado no contexto das atividades da disciplina de gra
 > |Nome  | RA | Curso|
 > |--|--|--|
 > | Fernando H. Velmae Nicchio  | 197003  | Eng. de Computação|
-> | Rafael Nascimento  | *****  | Eng. Elétrica|
+> | Rafael Nascimento  | 223622  | Eng. Elétrica|
 
 
 ## Descrição do Projeto
